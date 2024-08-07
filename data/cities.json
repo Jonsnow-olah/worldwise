@@ -1,40 +1,112 @@
 {
-    "cities": [
-      {
-        "cityName": "Lisbon",
-        "country": "Portugal",
-        "emoji": "🇵🇹",
-        "date": "2027-10-31T15:59:59.138Z",
-        "notes": "My favorite city so far!",
-        "position": {
-          "lat": 38.727881642324164,
-          "lng": -9.140900099907554
-        },
-        "id": 73930385
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
       },
-      {
-        "cityName": "Madrid",
-        "country": "Spain",
-        "emoji": "🇪🇸",
-        "date": "2027-07-15T08:22:53.976Z",
-        "notes": "",
-        "position": {
-          "lat": 40.46635901755316,
-          "lng": -3.7133789062500004
-        },
-        "id": 17806751
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
       },
-      {
-        "cityName": "Berlin",
-        "country": "Germany",
-        "emoji": "🇩🇪",
-        "date": "2027-02-12T09:24:11.863Z",
-        "notes": "Amazing 😃",
-        "position": {
-          "lat": 52.53586782505711,
-          "lng": 13.376933665713324
-        },
-        "id": 98443197
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "f3c3",
+      "cityName": "Loranca de Tajuna",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-05T10:55:34.896Z",
+      "notes": "test",
+      "position": {
+        "lat": "40.43177236904189",
+        "lng": "-3.09814453125"
       }
-    ]
-  }
+    },
+    {
+      "id": "8097",
+      "cityName": "les Escaldes",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2024-08-05T10:57:13.760Z",
+      "notes": "",
+      "position": {
+        "lat": "42.47301611509417",
+        "lng": "1.6259765625"
+      }
+    },
+    {
+      "id": "a405",
+      "cityName": "Valverde de Alcala",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-05T11:00:12.978Z",
+      "notes": "",
+      "position": {
+        "lat": "40.41505001034426",
+        "lng": "-3.2958984375000004"
+      }
+    },
+    {
+      "id": "b205",
+      "cityName": "Macao",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-08-05T11:00:17.445Z",
+      "notes": "test",
+      "position": {
+        "lat": "39.556824335662704",
+        "lng": "-7.932128906250001"
+      }
+    },
+    {
+      "id": "32f7",
+      "cityName": "Loranca de Tajuna",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-05T11:01:10.252Z",
+      "notes": "",
+      "position": {
+        "lat": "40.46520461401607",
+        "lng": "-3.0761718750000004"
+      }
+    },
+    {
+      "id": "9486",
+      "cityName": "Fuenlabrada de los Montes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-05T11:01:32.639Z",
+      "notes": "",
+      "position": {
+        "lat": "39.200274822580184",
+        "lng": "-4.877929687500001"
+      }
+    }
+  ]
+}
